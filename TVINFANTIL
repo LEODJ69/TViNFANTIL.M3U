@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="",TELETUBIES
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image66291515902.jpg"group-title="",KetNet Junior
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg",Pequeradio TV  | ES
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg",Paka Paka * | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png",Cloud Server Kids  | CL
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e7305cd9cf1cf17bd1716a5574b0ec6a.webp"group-title="ARGENTINA",LocomotionTV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",Anime ZoneTV
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp"group-title="INFANTIL",AnimeTV BR
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1049494788.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp",Retro Cartoon BR
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1586721001.m3u8
+
+#EXTINF:-1  tvg-logo="",LosSimpsons
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656544263/ei/p4e8YvKOD-aPobIPp8e-yAM/ip/200.87.91.130/id/zB8Md4SIVX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_MDSjohFVy7RuaqFSHjLlFL4Jw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN4CCRmUs5bGw_php_0mitc4yQ7pu4KJB_wUyubxOyB0CIF6xy5Su4c_r3YBuWp_IuREwgegECgJ5mKhrWKwkxCEM/file/index.m3u8
